@@ -1,0 +1,253 @@
+<CM> ***********************************************
+     ** Folio Flat File Identifier and Version Info **
+     *********************************************** </CM>
+<VI:Folio,DEF,4.7.0.8>
+
+
+<CM> ***********************************************
+     **           Level Definitions               **
+     *********************************************** </CM>
+<LN:"EBENE 1","ÜBERSCHRIFT 1","EBENE 2","ÜBERSCHRIFT 2","EBENE 3","ÜBERSCHRIFT 3","EBENE 4","ÜBERSCHRIFT 4","EBENE 5","ÜBERSCHRIFT 5","EBENE 6","ÜBERSCHRIFT 6","EBENE 7","Überschrift 4a","ÜBERSCHRIFT 7","EBENE 8">
+<LE:"EBENE 1"; BD+; FT:"Palatino Linotype",SR; PT:32; FC:128,128,128; JU:CN; BP:0.5; AP:0.25; BR:AL:0.025,0.125,FC:128,128,128; KN+>
+<LE:"ÜBERSCHRIFT 1"; BD+; FT:"Palatino Linotype",SR; PT:20; FC:0,0,0; JU:CN; BP:0.25; AP:0.25; TS:0.602778,RT,NO,0.603472,RT,NO>
+<LE:"EBENE 2"; BD+; FT:Arial,SN; PT:28; FC:128,128,128; JU:CN; BP:0.4; AP:0.2; BR:AL:0.0201389,0.1,FC:128,128,128>
+<LE:"ÜBERSCHRIFT 2"; BD+; FT:"Palatino Linotype",SR; PT:24; JU:CN; BP:0.25; AP:0.25; KN+>
+<LE:"EBENE 3"; BD+; FT:Arial,SN; PT:24; FC:128,128,128; JU:CN; BP:0.3; AP:0.1; KN+>
+<LE:"ÜBERSCHRIFT 3"; BD+; FT:"Palatino Linotype",SR; PT:22; JU:CN; BP:1.5; AP:0.5; KN+>
+<LE:"EBENE 4"; BD+; FT:Arial,SN; PT:20; FC:128,128,128; BP:0.6; AP:0.0597222; BR:AL:0.00972222,0.0597222,FC:192,192,192; KN+>
+<LE:"ÜBERSCHRIFT 4"; BD+; FT:"Palatino Linotype",SR; PT:18; BP:1; AP:0.25; TS:0.561806,RT,NO; SD:DC; KN+>
+<LE:"EBENE 5"; BD+; FT:Arial,SN; PT:16; FC:128,128,128; BP:0.5; AP:0.05; BR:AL:0.00972222,0.05,FC:192,192,192; KN+>
+<LE:"ÜBERSCHRIFT 5"; BD+; FT:"Palatino Linotype",SR; PT:14; BP:0.5; AP:0.2; TS:3.25069,RT,NO,3.25139,RT,NO>
+<LE:"EBENE 6"; FT:Arial,SN; FC:128,128,128; BP:0.4; AP:0.0402778; BR:AL:0.00972222,0.0402778,FC:192,192,192; KN+>
+<LE:"ÜBERSCHRIFT 6"; BD+; FT:"Palatino Linotype",SR; SP:5p; JU:FL; LS:1.29688; LW:8.5; BP:0.125; AP:0.05; IN:LF:0.75; TS:1.5,NM,NO>
+<LE:"EBENE 7"; FT:Arial,SN; PT:10; FC:128,128,128; BP:0.3; AP:0.0298611; BR:LF:0,0.0298611,FC:0,0,0,TP:0,0.0298611,FC:0,0,128,RT:0,0.0298611,FC:0,0,0,BT:0.00972222,0.0298611,FC:192,192,192; KN+>
+<LE:"Überschrift 4a"; BD+; FT:Garamond,SR; PT:14; JU:CN; BP:0.5; AP:0.25; TS:0.561806,RT,NO; KN+>
+<LE:"ÜBERSCHRIFT 7"; FT:Arial,SN; PT:9; FC:255,0,0; BP:0.125; AP:0.125; TS:2.325,RT,NO; KN+>
+<LE:"EBENE 8"; FT:Arial,SN; PT:9; FC:128,128,128; BP:0.2; AP:0.0201389; BR:LF:0,0.0201389,FC:192,192,192,TP:0,0.0201389,FC:192,192,192,RT:0,0.0201389,FC:192,192,192,BT:0.00972222,0.0201389,FC:192,192,192; KN+>
+<LE:"Normale Ebene"; FT:"Palatino Linotype",SR>
+
+
+<CM> ***********************************************
+     **      Paragraph Style Definitions          **
+     *********************************************** </CM>
+<PA:ABSTAND; FT:Arial,SN; PT:10; FC:128,128,128; BC:255,255,255; JU:CN; BP:2; AP:2; IN:LF:4,RT:4; BR:TP:0.00972222,0,FC:192,192,192; KN+>
+<PA:"BIBLIOGRAPHIE Eintrag"; FT:Arial,SN; PT:10; LW:8.5; BP:0.25; AP:0.25; IN:LF:0.5,RT:0.5; BR:AL:0.00972222,0.05,FC:192,192,192>
+<PA:"BIBLIOGRAPHIE Nachdruck"; FT:Arial,SN; PT:10; FC:128,128,128; JU:FL; LS:1.14844; BP:0.1; AP:0.1; IN:LF:0.75,RT:0.75>
+<PA:DATENSATZ; FT:Arial,SN; PT:9; BC:192,192,192; BR:AL:0,0.00277778,FC:255,255,255>
+<PA:"DATENSATZ 2"; FT:Arial,SN; PT:10; JU:FL>
+<PA:"DATENSATZ Zusatz"; FT:Arial,SN; PT:9; FC:128,128,128; JU:FL; LS:1.14844; BP:0.05; IN:LF:1.5,RT:0.5; BR:AL:0.00972222,0.025,FC:192,192,192>
+<PA:INHALTSTABELLE; BD+; FT:Arial,SN; FC:0,0,128; LS:1.19922; IN:LF:0.05,RT:0.05>
+<PA:KOMMENTARTEXT; FT:Verdana,SN; PT:10; JU:FL; LS:1.39844; BP:0.1; AP:0.1; IN:LF:1,RT:1.5>
+<PA:"LESETEXT Anmerkung"; FT:"Palatino Linotype",SR; PT:10; JU:FL; LW:9; BP:0.05; AP:0.05; IN:LF:1>
+<PA:"LESETEXT DRUCK"; FT:"Palatino Linotype",SR; PT:14; JU:FL; LW:8; AP:0.05; IN:LF:0.25,RT:0.25; TS:1.5,NM,NO>
+<PA:"LESETEXT MANUSKRIPT"; FT:"Palatino Linotype",SR; JU:FL; LS:1.32813; LW:8; AP:0.0659722; IN:LF:1; TS:1.5,NM,NO>
+<PA:"LESETEXT Soldatenzeitung"; FT:"Palatino Linotype",SR; JU:FL; LW:9; AP:0.05; IN:LF:1; TS:1.5,NM,NO>
+<PA:"LESETEXT Sprechernamen"; BD+; FT:"Palatino Linotype",SR; PT:10; LW:9; BP:0.075; IN:LF:1; TS:1.5,NM,NO>
+<PA:"LESETEXT UNTERTITEL"; BD+; FT:"Palatino Linotype",SR; PT:13; BP:0.375; AP:0.175; TS:3.25069,RT,NO,3.25139,RT,NO>
+<PA:NAVIGATIONSZEILE; FT:Arial,SN; PT:10; FC:128,128,128; AP:0.25; BR:AL:0.00972222,0.05,FC:192,192,192>
+<PA:"REGISTER Info"; FT:Arial,SN; PT:11; FC:128,128,128; JU:FL; LS:1.25; BP:0.125; AP:0.125; IN:LF:1,RT:1>
+<PA:"REGISTER Kopfzeile"; BD+; FT:Arial,SN; BP:2.5; BR:LF:0,0.00694444,FC:192,192,192,TP:0,0.00694444,FC:192,192,192,RT:0,0.00694444,FC:192,192,192,BT:0.00972222,0.00694444,FC:192,192,192; KN+>
+<PA:"REGISTER Tabelle"; FT:Verdana,SN; PT:10; JU:FL; LS:1.19922; BP:0.025; AP:0.025; IN:LF:0.0201389,RT:0.0201389; TS:0.11875,NM,NO,0.238194,NM,NO,0.356944,NM,NO,0.476389,NM,NO,0.5,NM,NO,0.5,NM,NO,0.595833,NM,NO,0.714583,NM,NO,0.834028,NM,NO,0.952778,NM,NO,1,NM,NO,1,NM,NO,1.07222,NM,NO,1.19167,NM,NO,1.31042,NM,NO,1.5,NM,NO,2,NM,NO,2.5,NM,NO,3,NM,NO,3.5,NM,NO,4,NM,NO,4.5,NM,NO,5,NM,NO,5.5,NM,NO,6,NM,NO,6.5,NM,NO,7,NM,NO,7.5,NM,NO,8,NM,NO,8.5,NM,NO,9,NM,NO,9.5,NM,NO,10,NM,NO,10.5,NM,NO,11,NM,NO,11.5,NM,NO,12,NM,NO,12.5,NM,NO,13,NM,NO>
+<PA:"REGISTER Werktitel"; BD+; FT:Tahoma,SN; PT:11; FC:128,128,128; BP:0.25; IN:LF:0.5,RT:0.5; BR:BT:0.000694444,0,FC:192,192,192; KN+>
+<PA:"REGISTER Zusatzinfo"; FT:Arial,SN; PT:9; FC:128,128,128; JU:FL; BP:0.025; AP:0.05; IN:LF:0.5,RT:0.5>
+<PA:TABELLE; FT:Arial,SN; PT:9; FC:128,128,128; BP:0.0201389; AP:0.0201389>
+
+
+<CM> ***********************************************
+     **      Character Style Definitions          **
+     *********************************************** </CM>
+<ST:ANMERKUNGEN,CS; BD-; IT-; UN-; SO-; HD-; FT:Arial,SN; PT:9; FC:0,0,128; BC:DC; SP:5p>
+<ST:SONDERZEICHEN,CS; BD-; IT-; UN-; SO-; HD-; FT:Wingdings,SY; PT:11; FC:DC; BC:DC; SP:0p>
+<ST:"Sonderzeichen *",CS; BD-; IT-; UN-; SO-; HD-; FT:Wingdings,SY; PT:11; FC:DC; BC:DC; SP:0p>
+<ST:SYMBOL,CS; BD-; IT-; UN-; SO-; HD-; FT:Symbol,SR,SY; PT:12; FC:DC; BC:DC; SP:0p>
+<ST:"VERSTECKTER WORTUMBRUCH",CS; BD-; IT-; UN-; SO-; HD+; FT:Garamond,SR; PT:10; FC:192,192,192; BC:DC; SP:0p>
+<ST:"VERSTECKTES SPRUNGZIEL",CS; UN-; SO+; HD+; PT:7; FC:255,255,255; BC:DC; SP:0p>
+<ST:ZEILENZAHL,CS; BD-; IT-; UN-; SO-; FT:Arial,SN; PT:7; FC:192,192,192; BC:DC>
+<ST:"ZEITLEISTE Tabelle",CS; BD-; IT-; UN-; SO-; HD-; FT:Arial,SN; PT:9; FC:DC; BC:DC; SP:0p>
+
+
+<CM> ***********************************************
+     **         Link Style Definitions            **
+     *********************************************** </CM>
+<ST:AUSZEICHUNGEN,LK; BD+; IT-; UN-; SO-; HD-; FT:"Palatino Linotype",SR; PT:14; FC:128,128,128; BC:DC; SP:0p>
+<ST:Befehl,LK; UN+; FC:0,0,255>
+<ST:"FIGUREN direkt",LK; BD+; IT-; UN+; SO-; HD-; FT:Arial,SN; PT:9; FC:DC; BC:DC; SP:0p>
+<ST:"FIGUREN indirekt",LK; BD-; IT-; UN-; SO-; HD-; FT:Arial,SN; PT:9; FC:128,128,128; BC:DC; SP:0p>
+<ST:HANDBUCH,LK; UN-; SO-; HD-; FC:255,0,0; BC:DC; SP:0p>
+<ST:"INHALT Kommentar",LK; BD+; IT-; UN-; SO-; HD-; FT:Arial,SN; PT:10; FC:128,128,128; SP:0p>
+<ST:"LESETEXT TITEL",LK; BD+; IT-; UN-; SO-; HD-; FC:DC; BC:DC; SP:0p>
+<ST:"NUMMERN-POPUP",LK; BD-; IT-; UN-; SO-; HD-; FT:"Palatino Linotype",SR; PT:8; FC:255,0,0; BC:DC; SP:5p>
+<ST:Popup,LK; BD-; IT-; UN-; SO-; HD-; FC:128,128,0; SP:3p>
+<ST:"POPUP Erläuterung ",LK; BD-; IT-; UN-; SO-; HD-; FC:255,0,0; BC:192,192,192; SP:0p>
+<ST:"Popup-Verknüpfung",LK; UN-; SO-; HD-; FC:128,128,0>
+<ST:"Popup-Vorlage",LK; UN+; FC:128,128,0>
+<ST:Programm,LK; UN+; FC:128,0,0>
+<ST:"Quellenwechsel Lesetext",LK; BD-; IT-; UN-; SO-; HD-; FT:Arial,SN; PT:9; FC:255,0,0; BC:DC; SP:5p>
+<ST:Sprung,LK; UN-; SO-; HD-; FC:128,128,0; BC:DC>
+<ST:"SPRUNG alternativ",LK; BD-; IT-; UN-; SO-; HD-; FC:128,128,0; BC:DC>
+<ST:Suche,LK; UN+; FC:0,0,255>
+<ST:"TITEL Kommentar",LK; BD+; IT-; UN-; SO-; HD-; FT:Arial,SN; FC:128,128,128; SP:0p>
+<ST:VERWEIS,LK; BD-; IT-; UN-; SO-; HD-; FT:Arial,SN; PT:10; FC:128,128,128; BC:DC; SP:0p>
+<ST:"Verweis extern",LK; BD-; IT-; UN+; SO-; HD-; FT:Arial,SN; PT:9; FC:0,0,0; BC:DC; SP:0p>
+<ST:"ZUM LESETEXT",LK; UN-; SO-; HD-; FC:255,0,0; BC:DC; SP:0p>
+
+
+<CM> ***********************************************
+     **        Highlighter Definitions            **
+     *********************************************** </CM>
+<PD:"aaaBernadette Farag (offene Fragen)"; BC:255,255,0>
+<PD:"Abklärung Corino"; BC:255,255,0>
+<PD:"Am Druck kontrollieren"; BC:255,255,0>
+<PD:"Am Original überprüfen"; BC:255,0,255>
+<PD:"andrea fragen"; BC:0,128,0>
+<PD:Andreas; BC:255,0,0>
+<PD:Anna; BC:255,0,0>
+<PD:"A-Simone Fragen"; BC:0,255,0>
+<PD:aVerlinken; BC:0,255,255>
+<PD:"Bernadette Farag (offene Fragen)"; BC:255,255,0>
+<PD:"Birgit Fragen"; BC:0,255,255>
+<PD:"Birgit Fragen Rechtschreibung/Zeichen/Grammatik"; BC:0,255,0>
+<PD:"Birgit Klärung Abkürzungen"; BC:255,255,0>
+<PD:"B Kontrolle"; BD+; IT-; FC:255,0,0; BC:255,255,255>
+<PD:"Blattfolge kontrollieren"; BC:0,255,0>
+<PD:"Daigger/Feltes"; BC:0,255,0>
+<PD:"Daniela Richter offene Fragen"; BC:128,0,0>
+<PD:"Einfügung Kutzenberger"; BC:0,255,255>
+<PD:"Endverlinkung dp"; BC:0,255,255>
+<PD:"Erläuterung fehlt!"; BC:255,255,0>
+<PD:"Faksimile erstellen!"; BC:0,128,128>
+<PD:"Fehlender Link"; BC:0,255,255>
+<PD:"Fehlender Seitenumbruch"; BC:0,255,255>
+<PD:"fragen margot"; BC:0,128,128>
+<PD:"FRAGLICHE LESUNG / FEHLENDE ERKLÄRUNG"; FC:255,0,0; BC:255,255,0>
+<PD:"französisch"; FC:128,0,128; BC:DC>
+<PD:"Frisé-Ausgabe"; FC:128,0,128; BC:255,255,0>
+<PD:GRAFIK; BC:128,128,0>
+<PD:Hatschek; BC:255,255,0>
+<PD:"Irrtümlich gelöscht"; BC:255,0,0>
+<PD:"K.A."; BC:255,255,0>
+<PD:"Kollation am Original fehlt"; BC:255,0,255>
+<PD:"Kommentar-Info fehlt"; BC:0,255,0>
+<PD:"Kommentar überprüfen / belegen!"; SO-; HD-; FC:192,192,192; BC:DC>
+<PD:"Kommentar-Zusatz C. S."; BC:255,255,0>
+<PD:"Korr LT Namen"; FC:255,0,0; BC:DC>
+<PD:"Korr. Spion"; BC:0,0,255>
+<PD:"Korr. Unklarheit"; BC:255,255,0>
+<PD:"Korr Verkn Faks"; BC:255,0,255>
+<PD:Lesefehler; BC:255,255,0>
+<PD:"Lesetext Normierung unklar"; BC:255,255,0>
+<PD:"LInk fehlt"; BC:0,255,255>
+<PD:"Link richtigstellen"; BC:192,192,192>
+<PD:"Link zu Heft Transkription"; BC:0,255,255>
+<PD:"Link zur Bibliografie"; UN+; PT:9; FC:128,128,0; BC:DC>
+<PD:"Literatur & Politik"; FC:0,128,128; BC:192,192,192>
+<PD:"LT Briefe Verlinkung fehlt"; FC:255,0,0; BC:DC>
+<PD:"Margot Gupper"; BC:0,128,128>
+<PD:"Marion Heidegger (offene Fragen)"; BC:0,255,255>
+<PD:"Musilzeichen Quadrat"; BC:255,255,0>
+<PD:"Neuverlinkung!"; BC:0,255,0>
+<PD:"Nicole-Ergänzungen und Änderungen durchgeführt"; BC:255,255,255>
+<PD:"Nicole-Formatierung angepasst"; BC:255,255,255>
+<PD:"Nicole-Neuer Eintrag + Sprungziel"; BC:255,255,255>
+<PD:"Nicole-Neues Sprungziel"; BC:255,255,255>
+<PD:"Noch zu ergänzen!"; BC:0,255,255>
+<PD:"Offene Fragen"; FC:255,255,255; BC:0,128,0>
+<PD:"Patrizia Pulling"; BC:255,255,0>
+<PD:Popup; BC:0,255,255>
+<PD:"Recherche nötig"; BC:0,255,0>
+<PD:Sonderzeichen; BC:255,0,255>
+<PD:"Stellen-Kommentar-Link fehlt"; FC:255,255,255; BC:128,128,128>
+<PD:"Text fehlt!"; BC:255,255,0>
+<PD:"Textmarker 1"; BC:255,255,0>
+<PD:"Textmarker 2"; BC:DC>
+<PD:"Textmarker 3"; BC:255,255,255>
+<PD:"Transkription erstellen!"; BC:255,255,0>
+<PD:"Transkription Unklarheit"; BC:0,255,0>
+<PD:"Unaufgelöste Abkürzung"; BC:0,255,0>
+<PD:"Unklarheiten (C.S.)"; FC:255,0,0; BC:192,192,192>
+<PD:"Unkommentiert!"; FC:128,0,128; BC:192,192,192>
+<PD:"Unsichere Lesart"; BC:0,255,0>
+<PD:"Unsichere Lesung"; FC:128,128,128; BC:255,255,0>
+<PD:"Unverknüpft (gedrucktes Werk)"; BC:0,255,0>
+<PD:"Unverknüpft in Notiz"; BC:0,255,255>
+<PD:"Verlinkung fehlt"; BC:0,255,255>
+<PD:"Walter fragen!"; BC:0,0,255>
+<PD:"Zitat verifizieren"; BC:0,255,255>
+<PD:"zu kommentieren C.S."; FC:255,0,0; BC:DC>
+<PD:"Zuordnung fehlt"; BC:192,192,192>
+
+
+<CM> ***********************************************
+     **           Field Definitions               **
+     *********************************************** </CM>
+<FE:"B-AUTOR",TX,IX:PF,TE; BD+; IT-; FT:Arial,SN; PT:12; FC:DC; BC:192,192,192>
+<FE:"B-DATUM",TX,IX:PF,TE; PT:8; FC:255,0,0; BC:255,255,0>
+<FE:"B-HERAUSGEBER",TX,IX:PF,TE; PT:10; FC:0,0,255; BC:192,192,192>
+<FE:"B-ORGAN",TX,IX:PF,TE; BD-; IT-; FC:0,0,0; BC:0,255,255>
+<FE:"B-ORT",TX,IX:PF,TE; BD-; IT-; FC:0,128,128; BC:255,255,0>
+<FE:"B-REIHE",TX; UN-; FC:0,128,128; BC:0,255,0>
+<FE:"B-TITEL",TX,IX:TF; BD+; IT-; FC:255,0,0; BC:DC>
+<FE:"B-VERLAG",TX; FC:0,0,255; BC:255,255,0>
+<FE:"B-ZUORDNUNG",TX,IX:PF,TE; HD+; FC:0,0,0; BC:0,255,0>
+<FE:"K-ABSENDERORT",TX,IX:PF,TE; BD-; IT-; FC:128,128,128; BC:DC>
+<FE:"K-ADRESSAT",TX,IX:PF,TE; BD-; IT-; FC:128,128,128; BC:DC>
+<FE:"K-ARCHIV",TX,IX:PF,TE,FP; BD+; IT->
+<FE:"K-DATUM",TX,IX:PF,TE; BD-; IT-; BC:255,255,255>
+<FE:"K-EMPFÄNGERORT",TX,IX:PF,TE; BD-; IT-; FC:128,128,128; BC:DC>
+<FE:"K-PARTNER",TX,IX:PF,TE; BD+; IT-; FC:128,128,128>
+<FE:"K-TYP",TX,IX:PF,TE; BD+; IT-; FC:128,128,128; BC:DC>
+<FE:"K-VERFASSER",TX,IX:PF,TE; BD-; IT-; FC:DC; BC:DC>
+<FE:"L-KONKORDANZ",TX,IX:PF,TE; BD-; IT-; HD+; FC:128,128,128; BC:DC>
+<FE:"S-DATIERUNG",TX,IX:PF,TE; BD+; IT-; HD-; FT:Arial,SN; PT:9; FC:128,128,128; BC:255,255,0>
+<FE:"S-DATUM",TX,IX:PF,TE; BD-; IT-; SO-; FC:128,0,0; BC:255,255,0>
+<FE:"S-HAUPTBESCHRIFTUNG",TX,IX:PF,TE; BD+; IT-; HD-; PT:9; FC:128,128,128; BC:0,255,0>
+<FE:"S-KAPITEL",TX; BD-; IT-; UN+; SO-; HD-; FC:0,128,0; BC:DC>
+<FE:"S-KAPITELPROJEKT",TX,IX:PF,TE; BD-; IT-; UN+; SO-; HD-; FC:0,128,0; BC:0,255,255>
+<FE:"S-KOMPLEX",TX,IX:PF,TE; BD+; IT-; UN+; FC:0,128,128; BC:0,255,255>
+<FE:"S-KONKORDANZ",TX; SO-; HD-; PT:8; FC:128,128,128; BC:DC>
+<FE:"S-NEBENBESCHRIFTUNG",TX,IX:PF,TE; BD-; IT-; HD-; PT:9; FC:128,0,128; BC:0,255,0>
+<FE:"S-PAPIERART",TX,IX:PF,TE; BD-; IT-; HD-; PT:9; FC:128,128,128; BC:0,255,0>
+<FE:"S-PAPIERFORMAT",TX,IX:PF,TE; BD-; IT-; HD-; PT:9; FC:128,128,128; BC:0,255,0>
+<FE:"S-PAPIERTYP",TX,IX:PF,TE; BD-; IT-; HD-; PT:9; FC:128,128,128; BC:0,255,0>
+<FE:"S-SCHREIBER",TX,IX:PF,TE; BD+; IT-; UN-; SO-; HD-; PT:9; FC:128,128,128; BC:255,255,0>
+<FE:"S-SORTE",TX; SO-; HD-; FC:0,0,128; BC:255,255,255>
+<FE:"S-TEXTGRUPPE",TX,IX:PF,TE; BD+; IT-; PT:9; FC:0,0,128; BC:0,255,255>
+<FE:"S-TEXTSTUFE",TX,IX:PF,TE; BD+; IT-; HD-; PT:9; FC:128,128,128; BC:255,255,0>
+<FE:"S-WERK",TX,IX:PF,TE; BD+; IT-; UN-; SO-; HD-; FC:DC; BC:0,255,255>
+<FE:"S-WERKPROJEKT",TX,IX:PF,TE; BD+; IT-; FC:0,128,128; BC:0,255,255>
+<FE:"T-PAGINA",TX,IX:PF,TE; BD+; IT-; HD->
+<FE:"T-SEITENSIGLE",TX,IX:PF,TE; BD+; IT-; HD-; FT:Arial,SN; FC:DC>
+<FE:"W-ERZÄHLKOMPLEX",TX,IX:PF,TE,FP; BD-; IT-; PT:9; FC:128,128,128; BC:192,192,192>
+<FE:"W-FIGUREN",TX,IX:PF,TE; BD-; IT-; SO-; HD-; PT:10; FC:0,0,0>
+<FE:"W-INSTITUTIONEN",TX>
+<FE:"W-PERSONEN",TX; BD+; IT-; FT:Arial,SN; PT:12; FC:DC; SP:0p>
+
+
+<CM> ***********************************************
+     **            Query Templates                **
+     *********************************************** </CM>
+<QT:BIBLIOGRAFIE,"Druckfahnen.OB\FFF1.OB">
+<QT:DATIERUNG,"Druckfahnen.OB\FFF2.OB">
+<QT:KAPITEL,"Druckfahnen.OB\FFF3.OB">
+<QT:KODIKOLOGISCHES,"Druckfahnen.OB\FFF4.OB">
+<QT:KONKORDANZ,"Druckfahnen.OB\FFF5.OB">
+<QT:KORRESPONDENZ,"Druckfahnen.OB\FFF6.OB">
+<QT:REGISTER,"Druckfahnen.OB\FFF7.OB">
+<QT:SIGLEN,"Druckfahnen.OB\FFF8.OB">
+<QT:TEILE,"Druckfahnen.OB\FFF9.OB">
+<QT:WERKE,"Druckfahnen.OB\FFF10.OB">
+
+
+<CM> ***********************************************
+     **          Infobase Properties              **
+     *********************************************** </CM>
+<HL: HR:400>
+
+
+<CM> ***********************************************
+     **        Folio Object Definitions           **
+     *********************************************** </CM>
+<OD:FO:"A-Mappe.bmp",Bitmap,"Druckfahnen.OB\FFF11.OB">
+<OD:FO:"A-Faksimile.bmp",Bitmap,"Druckfahnen.OB\FFF12.OB">
+<OD:FO:"A-Kommentar.bmp",Bitmap,"Druckfahnen.OB\FFF13.OB">
+<OD:FO:"A-Lesetext.bmp",Bitmap,"Druckfahnen.OB\FFF14.OB">
